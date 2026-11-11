@@ -1,0 +1,5 @@
+# Build / scratch files — nothing to ignore yet, but keep the repo clean
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
